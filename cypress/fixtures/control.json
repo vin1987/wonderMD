@@ -1,0 +1,207 @@
+{
+    "baseUrl":"https://quality.wondermd.ca",
+    "familySignUp":{
+      "family": {
+        "firstName": "Sagar46", 
+        "emailAddress": "sagar_46@yahoo.com",
+        "mobileNumber": 4488952446,
+  
+        "lastName":  "chavan",
+        "password": "Test@123",
+        "confirm_password": "Test@123"
+      },
+      "alternateCareGiver":{
+        "relationship":"grandparent",
+        "firstName":"grandFather",
+        "lastName":"fatherTest",
+        "address":{
+          "addressline1":"1002 S Mercer ave",
+          "addressline2":"apt 3",
+          "city":"Normal",
+          "province":"IL",
+          "PostalCode":"61761"
+           }
+      },
+      "child1":{
+          "firstName":"child1",
+          "lastName":"chavan",
+          "dob":"01/01/2020",
+          "hcn":"5566443346",
+          "expiryDate":"01/01/2030"
+         
+      },
+      "child2":{
+        "firstName":"child2",
+        "lastName":"chavan",
+        "hcn":"5566443311"
+       },
+        "test25b":{
+          "invalidEmail":"abc@abc.com",
+          "invalidErrorMsg":"Error: Email does not exist.",
+          "resetPassword":"Test@987"
+        }
+    },
+    
+    "refferingProvider": {   
+        "provider": {
+          "firstName": "Dr Sanajay46",        
+          "emailAddress": "Sanajay_46@gmail.com",
+          "billingNumber":"895646",
+          "mobileNumber": 8275021846,
+  
+          "lastName":  "patil",
+          "password": "Test@123",
+          "confirm_password": "Test@123",
+          "licenseNumber":"454454654565451",
+          "insuranceNumber":"545645645645641",        
+          "officeDetails":{
+            "clinicName":"Summit family medical",
+            "clinicMobileNumber":"8275021895",
+            "faxNumber":"8275021895",
+            "officeAddress":{
+              "addressline1":"1015 Hershy rd",
+              "addressline2":"st 35",
+              "city":"Bloomington",
+              "province":"IL",
+              "postalCode":"61701",
+              "officeEmail":"summit@medical.com"
+               }
+  
+          }
+      }
+  
+    },
+    "consultingProvider": {
+      "provider": {
+        "firstName": "Dr Mayur46",      
+        "emailAddress": "Mayur_46@gmail.com",
+        "mobileNumber": 1275021846,
+        "billingNumber":"584646",
+  
+        "lastName":  "Agarwal",
+        "password": "Test@123",
+        "confirm_password": "Test@123",
+        "licenseNumber":"454454654565451",
+        "insuranceNumber":"545645645645641",
+        
+        "officeDetails":{
+          "clinicName":"Carle medical",
+          "clinicMobileNumber":"1275021895",
+          "faxNumber":"1275021895",
+          "officeAddress":{
+            "addressline1":"1015 Blue Heron",
+            "addressline2":"st 700",
+            "city":"Clinton",
+            "province":"IL",
+            "postalCode":"61791",
+            "officeEmail":"carle@medical.com"
+             }
+  
+        }
+    }
+    },
+    "loginRegistration": {
+        "test01": {
+            "email":"unregistered@wondermd.ca",
+            "pwd":"Incorrect123!",
+            "errorMessage":"Error: Your password is not correct."
+        },
+        "test02": {
+          "email":"swtmayuripatil@gmail.com",
+          "pwd":"Mercer@1234"
+        },
+        "test03": {
+          "email":"Sanajay_46@gmail.com",
+          "pwd":"Test@123"
+        },
+        "test04": {
+          "email":"point4bets@gmail.com",
+          "pwd":"Mercer@123"
+        },
+        "test06": {
+          "email":" ",
+          "pwd":" ",
+          "errorMessage":"Invalid email address"
+        },
+        "test07": {
+          "email":"fam1@wondermd.ca",
+          "pwd":"Fake123!",
+          "errorMessage":"Error: Your password is not correct."
+        },
+        "test08": {
+          "email":"unregistered@wondermd.ca",
+          "pwd":"Test@123",
+          "errorMessage":"Error: Your password is not correct."
+        },
+        "test09": {
+          "email":"RefPo1@wondermd.ca",
+          "pwd":"456@Test",
+          "verificationCode":"123456",
+          "errorMessage":"Error: Your password is not correct."
+        },
+        "test10": {
+          "email":"refpo1@wondermd.ca",
+          "pwd":"456@test",
+          "errorMessage":"Error: Your password is not correct."
+        },
+        "test11": {
+          "email":"fam1@wondermd.ca",
+          "pwd":"Fake123!",
+          "errorMessage":"Error: Your password is not correct."
+        },
+        "test12": {
+          "email":"conpo1@wondermd.ca",
+          "pwd":"Test@159",
+          "errorMessage":"Error: Your password is not correct."
+        },
+        "test13": {
+          "email":"swtmayuripatil@gmail.com",
+          "pwd":"Mercer@1234"
+        },
+        "test14": {
+          "email":"swtmayuripatil@gmail.com",
+          "pwd":"Mercer@1234"
+        },
+        "test15": {
+          "email":" ",
+          "pwd":" ",
+          "errorMessage":"Invalid email address"
+        },
+        "test23": {
+          "firstName": "Lauf",
+          "lastName":  "Ng",
+          "mobileNumber": 5688952365,
+          "password": "Test@123",
+          "confirm_password": "Test@123",
+          "email_1":"a",
+          "email_2":"a.a",
+          "email_3":"a.aatgmail.com",
+          "email_4":"a@b",
+          "email_5":"a@b.c",
+          "email_6":"a @b.com",
+          "email_7":"a@.com",
+          "email_8":"a@b@c.com",
+          "email_9":"sdhsfda",
+          "email_10":"@gmail.com",
+          "email_11":"joe@gmail",
+          "email_12":"joe@192.168.1.1.0",
+          "email_13":"joe@gmaildotcom",
+          "email_14":"joe.dimagio@gmail.com"
+        },
+        "test24": {
+          "firstName": "Lauf",
+          "lastName":  "Ng",
+          "emailAddress": "fam2@wondermd.ca",
+          "mobileNumber": 5688952365,
+          "password": "Test@123",
+          "confirm_password": "Test@123",
+          "mobileNumber_1":"1234567",
+          "mobileNumber_2":"asd1234567",
+          "mobileNumber_3":"411234567",
+          "mobileNumber_4":"1234567890",
+          "mobileNumber_5":"309552895623561"
+        }
+  
+    }
+  }
+  
