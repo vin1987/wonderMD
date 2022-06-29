@@ -1,5 +1,37 @@
 # test-automation
 
+Execute below script in local to run test
+
+npm run cypress:open 
+
+To run without visiual 
+npm run test
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Family SignUp Dynamic data , change the end number
 
 "family": {
@@ -12,9 +44,6 @@ Family SignUp Dynamic data , change the end number
 
 
 reffering provider 
-
-
-
 consultingProvider
 
 "consultingProvider": {
