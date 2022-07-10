@@ -1,5 +1,7 @@
 # test-automation
 
+
+- Install Cypress - npm install cypress --save-dev
 Execute below script in local to run test
 
 npm run cypress:open 

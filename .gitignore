@@ -21,3 +21,21 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+/node_modules
+/cypress/results
+/cypress/screenshots
+/cypress/videos
+
+mochawesome-report/assets/app.css
+mochawesome-report/assets/app.js
+mochawesome-report/assets/app.js.LICENSE.txt
+mochawesome-report/assets/MaterialIcons-Regular.woff
+mochawesome-report/assets/MaterialIcons-Regular.woff2
+mochawesome-report/assets/roboto-light-webfont.woff
+mochawesome-report/assets/roboto-light-webfont.woff2
+mochawesome-report/assets/roboto-medium-webfont.woff
+mochawesome-report/assets/roboto-medium-webfont.woff2
+mochawesome-report/assets/roboto-regular-webfont.woff
+mochawesome-report/assets/roboto-regular-webfont.woff2
+mochawesome-report/cypress/results/mochawesome.html

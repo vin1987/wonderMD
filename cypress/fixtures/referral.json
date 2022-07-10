@@ -1,0 +1,97 @@
+{
+    "baseUrl":"https://quality.wondermd.ca",
+    "family":{
+        "email":"swtmayuripatil@gmail.com",
+        "password":"Mercer@1234",
+        "referralAppointment":[
+            {
+                "specialization":"Pediatrician",
+                "issue":"Sleepless"
+              
+            },
+            {
+                "specialization":"Pediatrician",
+                "issue":"Fever"
+            
+            },
+            {
+                "specialization":"Pediatrician",
+                "issue":"Headache"
+           
+            },
+            {
+                "specialization":"Neurology",
+                "issue":"headache"
+    
+            },
+           {
+                "specialization":"Neurology",
+                "issue":"seizures"
+               
+            },
+            
+            {
+                "specialization":"Endocrinology",
+                "issue":"diabetes"
+                
+            },
+            {
+                "specialization":"Pediatrician",
+                "issue":"Sleepless"
+              
+            },
+            {
+                "specialization":"Pediatrician",
+                "issue":"Fever"
+            
+            },
+            {
+                "specialization":"Pediatrician",
+                "issue":"Headache"
+           
+            },
+            {
+                "specialization":"Neurology",
+                "issue":"headache"
+    
+            },
+           {
+                "specialization":"Neurology",
+                "issue":"seizures"
+               
+            },
+            
+            {
+                "specialization":"Endocrinology",
+                "issue":"diabetes"
+                
+            }
+            
+        ]
+    },
+    "referringProvider":{
+        "email":"lovechavanfamily@gmail.com",
+        "password":"Mercer@1234",
+        "makeReferral":[
+            {
+                "OHIP": "3456878623OR"
+            },
+            {
+                "OHIP": "6546546545OR"
+            },
+            { 
+                "OHIP":"7855956567"
+            },
+            {
+                "OHIP": "9898989898"
+            }
+            
+        ]
+
+    },
+    "consultingProvider":{
+        "email":"point4bets@gmail.com",
+        "password":"Mercer@123"
+    }
+
+}
